@@ -2,3 +2,4 @@ Nama
 stack
 Brach
 line1
+sesiSore
